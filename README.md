@@ -23,7 +23,3 @@ Chat Roulette iOS application for Fora Soft, Ltd.
 
 To publish in AppStore, open Info.plist file and remove ``App Transport Security Settings`` and it's childs.
 Then server should be accessable by HTTPS.
-
-## Support 
-
-You can contact me by email: m-maxims@yandex.ru
